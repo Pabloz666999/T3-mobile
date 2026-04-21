@@ -29,16 +29,18 @@ Aplikasi Android sederhana yang mengimplementasikan penggunaan XML Layout (terma
 
 Gambar 1: 
 
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/82b913cc-725a-4db7-be7c-31cac6324cb3" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/46ea1139-c55e-493b-8700-6f5fec55252d" />
 
 
 Gambar 2:
 
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/dc0f09b4-34d5-4f54-8cac-3d4baedb41ca" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/1c48dd8b-9930-4a9b-867a-35788f50a5b1" />
+
 
 Gambar 3:
 
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/09bc8813-aeed-49fb-ab3e-2d3e6266485d" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/f49caabd-3a4c-4e2a-9f19-e91082f33740" />
+
 
 
 
