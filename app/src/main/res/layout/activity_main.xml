@@ -13,7 +13,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:padding="20dp">
+        android:paddingStart="20dp"
+        android:paddingTop="20dp"
+        android:paddingEnd="20dp"
+        android:paddingBottom="0dp">
 
         <!-- Header -->
         <TextView
@@ -75,14 +78,6 @@
                 android:orientation="horizontal"
                 android:padding="8dp">
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginEnd="8dp"
-                    android:text="LinearLayout"
-                    android:textColor="#7986CB"
-                    android:textSize="12sp" />
-
                 <RadioGroup
                     android:id="@+id/rg_gender"
                     android:layout_width="match_parent"
@@ -93,17 +88,14 @@
                         android:id="@+id/rb_laki"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:buttonTint="@color/primary_blue"
                         android:text="@string/gender_laki"
-                        android:textColor="@color/black"
-                        android:textStyle="bold" />
+                        android:textColor="@color/black" />
 
                     <RadioButton
                         android:id="@+id/rb_perempuan"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginStart="8dp"
-                        android:buttonTint="@color/primary_blue"
                         android:text="@string/gender_perempuan"
                         android:textColor="@color/black" />
                 </RadioGroup>
@@ -121,25 +113,20 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="4dp"
-                android:buttonTint="@color/primary_blue"
                 android:text="@string/hobi_membaca"
-                android:textColor="@color/black"
-                android:textStyle="bold" />
+                android:textColor="@color/black" />
 
             <CheckBox
                 android:id="@+id/cb_coding"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:buttonTint="@color/primary_blue"
                 android:text="@string/hobi_coding"
-                android:textColor="@color/black"
-                android:textStyle="bold" />
+                android:textColor="@color/black" />
 
             <CheckBox
                 android:id="@+id/cb_olahraga"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:buttonTint="@color/primary_blue"
                 android:text="@string/hobi_olahraga"
                 android:textColor="@color/black" />
 
